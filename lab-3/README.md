@@ -3,6 +3,7 @@ Printing Shapes
 Create a program that:
 1. Prompt the user to choose between a rectangle and a triangle
 2. Prompt user for shape parameters
+
   a. Rectangle
     i. Ask user to choose between supplying a word or a width
     ii. Ask user for height
