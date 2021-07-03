@@ -1,2 +1,5 @@
 # Lab-1
-https://docs.google.com/document/d/1PqOzsaBdXf3SCadMW1YfoVgMnPAidMULhx_6HKAihWU/edit?usp=sharing
+Create a program that:
+1. Asks the user to input a number of cents
+2. Calculates the number of quarters, dimes, nickels, pennies that should be used to reach the value.
+3. Calculates and display total number of coins/change
