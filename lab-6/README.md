@@ -1,2 +1,2 @@
-# Lab6
-https://docs.google.com/document/d/1MoncwoV0yaO2FN9j7jlCxlMmcLjb-4DsYUorIzvrFf8/edit?usp=sharing
+[Lab 6.txt](https://github.com/austinh763/CPSC121-Object-Oriented-Programming/files/6760361/Lab.6.txt)
+
